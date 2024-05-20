@@ -1,3 +1,6 @@
+
+AMAOEd-CompProg1-Laboratory Exercises
+
 # C++ Programming Language | VS Code
 
 This repository contains a development environment for Visual Studio code to be used by C++ Programming Language of AMA Online Education.
