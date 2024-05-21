@@ -1,6 +1,6 @@
 /* ****************************************************************
- * @author: <your name here>
- * @app name: <your application name here>
+ * @author: Catherine Javier
+ * @app name: Enrollment Slip
  * @app desc: <describe the purpose of your application here>
  * @history:
  *  - <yyyy/mm/dd> | <name>
